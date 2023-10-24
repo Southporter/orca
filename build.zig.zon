@@ -9,8 +9,8 @@
     },
     .dependencies = .{
         .orca = .{
-            .url = "git+https://github.com/kristoff-it/orca.git#c8fc485587a839b8f7e6531c873c6c31f7062a36",
-            .hash = "1220330fb937d968d616cf3a420af6286b69a39db871a0ea65648d5e5923f84764e4",
+            .url = "git+https://github.com/orca-app/orca.git#25709a4935fe5d4a2659ced860984e5d20cefa23",
+            .hash = "122062734612cfbfaf19e789040729f5c69ac23295654c21da966c0a3da437cb39cb",
         },
         .angle = .{
             .url = "https://andrewkelley.me/temp/angle-macos-jank-2023-07-05.tar.xz",
